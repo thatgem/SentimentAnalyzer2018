@@ -56,10 +56,10 @@ class Ui_MainWindow(object):
                 
    
    
-        consumerKey="Kx05pI2ZHtRkQs6LHsLYOkeRK"
-        consumerSecret="grY1yujbtYBRwfspIS8swiFoXUlTrBgr5I4IwcQhBbWmyFgYPM"
-        accessToken="2530152451-OO6vRCLjNXQIaHyelo1TdFhSlI8YpBzpUX91RAa"
-        accessTokenSecret="jscWVipPNASXspdVbwNxiRY1ZpiAw3syUi6agB4kcmr1m"
+        consumerKey="**"
+        consumerSecret="**"
+        accessToken="**-**"
+        accessTokenSecret="***"
 
 
         auth=tweepy.OAuthHandler(consumer_key=consumerKey,consumer_secret=consumerSecret)
